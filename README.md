@@ -1,10 +1,9 @@
-# Profile
 <h1 align="center">Hi 👋, I'm Riley Li</h1>
 <h3 align="center">PhD student in Bioengineering | Single-cell genomics & cancer biology enthusiast</h3>
 
 - 🌱 I’m currently learning **Single cell technology, computational analysis, Genetic& Epigenetic, Porgramming**
 
-- 📫 How to reach me **xl160@rice.edu**
+- 📫 How to reach me **xl160@rice.edu / XLi39@mdanderson.org**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
